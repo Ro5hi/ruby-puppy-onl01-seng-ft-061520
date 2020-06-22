@@ -15,13 +15,13 @@ class Dog
   
   def self.clear_all
     @@all 
-  end 
- end
-  # def self.print_all 
-  #   @@all.print 
+  end
+  
+  def self.print_all 
+    @@all.print 
     
-  # end 
+  end 
 
-  # def save 
-  #   @@all << self 
-  # end 
+  def save 
+    @@all << self 
+  end 
