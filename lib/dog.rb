@@ -19,7 +19,6 @@ class Dog
   def self.print_all 
     @@all.each do |dogs_name|
       puts dogs_name
-    
   end 
 
   def save 
