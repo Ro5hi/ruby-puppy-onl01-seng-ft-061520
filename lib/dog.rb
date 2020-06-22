@@ -16,12 +16,11 @@ class Dog
     @@all 
   end 
  
-  def self.print_all 
-    @@all.print 
+  # def self.print_all 
+  #   @@all.print 
     
-  end 
+  # end 
 
   # def save 
   #   @@all << self 
   # end 
-# end
